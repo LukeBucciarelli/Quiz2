@@ -7,24 +7,14 @@ font-family:
 
 }
 
-.questions{
+.choices-list {
+  margin: 0;
+  padding: 0;
 
-font-family: 
-
-
+  list-style: none;
 }
 
-
-.choice{
-
-font-family: 
-display: block;
-}
-
-.shoutout{
-
-font-family: 
-
-
+.choices-list__item.active {
+  background: tomato;
 }
 

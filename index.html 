@@ -9,78 +9,90 @@
 </head>
 <body>
     
-<h1 class= "title">Sport Climbing 101 Pop Quiz !</h1>
+  <h1 class= "title">Sport Climbing 101 Pop Quiz !</h1>
+
+  <h2 class="play"> Click Here To Play</h2>
+  <button class= "play-button-js">play</button>
+
+  <div class="question"></div>
+  <ul class="choices-list">
+  </ul>
+
+  <button class="submit-answer-js">submit answer</button>
+
+  <!-- <div class="questions">
+    Q-1: Who was the first person to climb 5.15?
+  </div>
+
+  <ul class="choice">
+    <li>A. Royal Robbins</li>
+    <li></li>
+    
+    B. Chris Sharma 
+    C. Tommy Caldwell 
+    D.  Fred Nicole 
+  </ul>
+
+  <div class="answer">
+    Answer: B. 
+  </div>
 
 
-<h2 class="play"> Click Here To Play</h2>
-<button class= "play-button-js">play</button>
-
-<div class="questions">Q-1: Who was the first person to climb 5.15?</div>
-
-<ul class="choice">
-A.  Royal Robbins 
-B. Chris Sharma 
-C. Tommy Caldwell 
-D.  Fred Nicole 
-</ul>
-
-<div class="answer">Answer: B. </div>
+  <div class="questions">
+    Q-2: Name the only 5.15b in North America. </div>
 
 
-<div class="questions">Q-2: Name the only 5.15b in North America. </div>
+  <ul class="choice">
+  A. Jumbo Love
+  B. The Mandala 
+  C, Toxic Turkey 
+  D. God’s Own Stone
+  </ul>
+
+  <div class="answer">Answer: A. </div> -->
+
+  <!-- <div class="questions">Q-3: What does 8a translate to in the American Yosemite Decimal System grading scale? </div>
+
+  <ul class="choice">
+  A. 5.10 R
+  B. V12 
+  C. 5.13b 
+  D. Grade V
+  </ul>
+
+  <div class="answer">Answer: C.</div>
+
+  <div class="questions">Q-4: Name the area where the first American 5.14 was established. </div>
+
+  <ul class="choice">
+  A. Smith Rocks
+  B. Yosemite
+  C. Red River Gorge 
+  D. Rifle
+  </ul>
+
+  <div class="answer">Answer: A.</div>
+
+  <div class="questions">Q-5: Name the only person to climb 5.15c </div>
+
+  <ul class="choice">
+  A. Chris Charma
+  B. Adam Ondra 
+  C. Luke Bucciarelli 
+  D. Ashima Shiraishi
+  </ul>
+
+  <div class="answer">Answer: B.</div>
 
 
-<ul class="choice">
-A. Jumbo Love
-B. The Mandala 
-C, Toxic Turkey 
-D. God’s Own Stone
-</ul>
-
-<div class="answer">Answer: A. </div>
-
-<div class="questions">Q-3: What does 8a translate to in the American Yosemite Decimal System grading scale? </div>
-
-<ul class="choice">
-A. 5.10 R
-B. V12 
-C. 5.13b 
-D. Grade V
-</ul>
-
-<div class="answer">Answer: C.</div>
-
-<div class="questions">Q-4: Name the area where the first American 5.14 was established. </div>
-
-<ul class="choice">
-A. Smith Rocks
-B. Yosemite
-C. Red River Gorge 
-D. Rifle
-</ul>
-
-<div class="answer">Answer: A.</div>
-
-<div class="questions">Q-5: Name the only person to climb 5.15c </div>
-
-<ul class="choice">
-A. Chris Charma
-B. Adam Ondra 
-C. Luke Bucciarelli 
-D. Ashima Shiraishi
-</ul>
-
-<div class="answer">Answer: B.</div>
-
-
-<footer class="shoutout">
-	
+  <footer class="shoutout">
+  	
 
 
 
-</footer>
+  </footer> -->
 
-
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script type="text/javascript" src="script.js"></script>
 </body>
 </html>
